@@ -15,11 +15,11 @@ import {
 import { useGlobalState } from '../../context/GlobalContext';
 // Import common components
 import PageHeader from '../common/PageHeader';
-import Button from '../common/button';
 import Card from '../common/Card';
 import StatsGrid from '../common/StatsGrid';
 import StatusBadge from '../common/StatusBadge';
 import BotStatusIndicator from '../common/BotStatusIndicator';
+import Button from '../common/button';
 import KPICard from '../common/KPICard';
 
 const MapPage = () => {
