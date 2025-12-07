@@ -8,10 +8,10 @@ import {
 import PageHeader from '../common/PageHeader';
 import StatsGrid from '../common/StatsGrid';
 import Card from '../common/Card';
-import ProgressBar from '../common/progressBar';
 import StatusBadge from '../common/StatusBadge';
 import BotStatusIndicator from '../common/BotStatusIndicator';
 import Button from '../common/button';
+import ProgressBar from '../common/progressBar';
 
 const BotDashboardOverview = () => {
   const { state, actions } = useGlobalState();
