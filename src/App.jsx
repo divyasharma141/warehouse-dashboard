@@ -10,7 +10,7 @@ import BotStatusPage from "./components/pages/botDetails/BotStatus";
 // import TaskAllocationPage from "./components/pages/taskManagement/TaskAllocation";
 import TaskQueuePage from "./components/pages/taskManagement/TaskQueue";
 import MapPage from "./components/pages/Map"
-import AnalyticsPage from "./components/pages/analytics";
+import AnalyticsPage from "./components/pages/Analytics";
 // import ProtectedRoute from "./components/ProtectedRoute";
 import ProtectedRoute from "./AppRoutes/ProtectedRoutes";
 import PublicRoute from "./AppRoutes/PublicRoutes";
