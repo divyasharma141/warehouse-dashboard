@@ -5,9 +5,9 @@ import BotCard from './BotCard';
 import PageHeader from '../../common/PageHeader';
 import StatsGrid from '../../common/StatsGrid';
 import Card from '../../common/Card';
-import Button from '../../common/button';
 import FilterBar from '../../common/filterBar';
 import EmptyState from '../../common/EmptyState';
+import Button from '../../common/button';
 import { 
   FaPause, 
   FaBolt, 
